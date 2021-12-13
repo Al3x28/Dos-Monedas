@@ -1,2 +1,2 @@
-# Simulacion-y-modelo
-Repositorio para todos los ejercicios de la materia
+# Dos-Monedas
+Respositorio del ejercicio de lsa dos monedas
